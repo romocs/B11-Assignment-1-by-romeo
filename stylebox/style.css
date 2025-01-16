@@ -291,7 +291,7 @@ nav ul li {
     font-size: 20px;
     color: #383636;
     margin-bottom: 0px;
-    
+
 }
 
 .intro-yunus {
@@ -301,7 +301,8 @@ nav ul li {
     margin-top: 0px;
 
 }
-.advisor-statement{
+
+.advisor-statement {
 
 
     background-color: white;
@@ -311,14 +312,97 @@ nav ul li {
     margin-top: 30px;
     margin: 0 170px;
     margin-bottom: 80px;
-    padding: 24px
+    padding: 30px 20px
+}
+
+.quote-icon {
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: 1% 5%
+}
+
+/* styling of opinion */
+.opinion-title {
+    margin-left: 170px;
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 20px;
+
+}
+
+.thead-style {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+
+
+
+
+.tablediv {
+    background-color: white;
+    border: none;
+    border-radius: 16px;
+    padding: 32px 32px;
+
+    width: 1000px;
     
-    
+    justify-content: center;
+    margin-left: 400px;
+
+
+
+
+
+
 
 
 }
-.quote-icon{
-    background-image: url(../assets/quote-bg.png);
-    background-repeat: no-repeat;
-    background-position: 1.5% 1%
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+    margin-left: 0px;
+    margin-right: 0px;
     
+}
+
+td {
+    border: 1px solid black;
+
+}
+
+.column-question {
+    font-size: 16px;
+    font-weight: 600;
+    padding: 10px 200px 10px 5px;
+    margin-top: 20px;
+
+    margin-bottom: 20px;
+}
+
+thead th {
+    padding: 20px;
+}
+
+thead {
+    background-color: #C6E4D6;
+}
+
+#agree {
+    font-weight: bold;
+    font-size: 16px;
+    padding: 5px;
+    background-color: #C6E4D6;
+    margin-left: 25px;
+    border-radius: 8px;
+}
+
+
+}
+
+.select-items {
+    padding: 24px;
+
+}
