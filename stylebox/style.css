@@ -346,7 +346,7 @@ nav ul li {
     padding: 32px 32px;
 
     width: 1000px;
-    
+
     justify-content: center;
     margin-left: 400px;
 
@@ -360,12 +360,12 @@ nav ul li {
 }
 
 table {
-    border: 1px solid black;
+    border: 0.5px solid rgb(124, 115, 115);
     border-collapse: collapse;
 
     margin-left: 0px;
     margin-right: 0px;
-    
+
 }
 
 td {
@@ -393,16 +393,59 @@ thead {
 #agree {
     font-weight: bold;
     font-size: 16px;
-    padding: 5px;
+    padding: 10px;
     background-color: #C6E4D6;
     margin-left: 25px;
     border-radius: 8px;
 }
 
 
-}
+
 
 .select-items {
     padding: 24px;
 
+}
+
+/* styling-news */
+.news-heading {
+    margin: 80px 170px 20px;
+
+
+}
+
+.news-title {
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 0px;
+
+}
+
+.news-subtitle {
+
+    font-weight: 200;
+    font-size: 16px;
+    color: #0E0E0E;
+
+}
+
+.newscard-container {
+    display: flex;
+    gap: 30px;
+    background-color: white;
+    border-radius: 16px;
+    margin: 30px 170px;
+    padding: 30px;
+}
+
+.newscard-title {
+    font-weight: bold;
+    font-size: 32px;
+
+}
+
+.news-description .date {
+    font-weight: 200;
+    font-size: 16px;
+    color: #393A3A;
 }
