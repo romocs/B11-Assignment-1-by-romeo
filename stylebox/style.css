@@ -449,3 +449,141 @@ thead {
     font-size: 16px;
     color: #393A3A;
 }
+
+
+.donate-section {
+    margin: 30px 300px;
+    margin-top: 80px;
+}
+
+.donate-title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.donate-description {
+    font-size: 16px;
+    font-weight: 300px;
+    color: #383636;
+
+}
+
+.btn-taka {
+    padding: 40px;
+    border-radius: 16px;
+    background-color: white;
+    border-radius: 16px;
+    font-size: 32px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+
+}
+
+.taka-box {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 0px;
+}
+
+.taka-green {
+    background-color: #C6E4D6;
+
+}
+
+#donate-amount {
+    background-color: white;
+    padding: 20px 560px;
+    margin: 30px auto;
+
+
+
+    margin-top: 30px;
+    font-size: 16px;
+    border: none;
+
+
+}
+
+.donate-input {
+    margin-left: 70px;
+
+}
+
+.donate-btn {
+    margin-top: 0px;
+    margin-left: 650px;
+
+
+
+}
+
+.donate-section {
+    margin: 30px 210px;
+}
+
+.newsletter {
+    margin: 80px 170px;
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    border: none;
+    padding: 100px 300px;
+
+}
+
+.newsletter-content {
+    justify-items: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.newsletter-heading {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+#input-email {
+    padding: 18px 400px 18px 40px;
+    border: none;
+    border-radius: 8px;
+}
+
+.btn-subs {
+    padding: 18px;
+    background-color: #006A50;
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+}
+
+.placeholder {
+    font-size: 20px;
+}
+
+.input-email-sub {
+    display: flex;
+    border-radius: 8px;
+    
+
+}
+
+.descstyle {
+    font-size: 16px;
+    font-weight: 300;
+    color: #686969;
+}
+.subnews{
+    width: 600px;
+}
+.Last{
+    justify-items: center;
+    background-color: white;
+    padding-top: 80px;
+    margin-top: 80px;
+    margin-bottom: 0px;
+
+}
+}
