@@ -466,6 +466,7 @@ thead {
     font-size: 16px;
     font-weight: 300px;
     color: #383636;
+    text-align: center;
 
 }
 
@@ -557,6 +558,7 @@ thead {
     font-size: 16px;
     border: none;
     border-radius: 8px;
+    cursor: pointer;
 }
 
 .placeholder {
@@ -577,6 +579,7 @@ thead {
 }
 .subnews{
     width: 600px;
+    text-align: center;
 }
 .Last{
     justify-items: center;
@@ -586,4 +589,13 @@ thead {
     margin-bottom: 0px;
 
 }
+/* hover-effect */
+.buttonhover{
+    transition: 0.5s ease-in-out;
+
+}
+.buttonhover:hover{
+    background-color: #01460a;
+    color: white;
+
 }
